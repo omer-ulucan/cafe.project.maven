@@ -4,7 +4,7 @@
 
   <groupId>org.example</groupId>
   <artifactId>cafe.project.maven</artifactId>
-  <version>2.0-SNAPSHOT</version>
+  <version>DONE</version>
   <packaging>jar</packaging>
 
   <name>cafe.project.maven</name>
@@ -33,7 +33,7 @@
     <dependency>
       <groupId>org.example</groupId>
       <artifactId>cafe.project</artifactId>
-      <version>1.0-SNAPSHOT</version>
+      <version>LAST-SNAPSHOT</version>
     </dependency>
 
   </dependencies>
